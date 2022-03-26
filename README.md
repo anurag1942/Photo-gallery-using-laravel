@@ -10,6 +10,7 @@ Features-
 •	User can also like someone else’s post.
 •	User also has a simple dashboard.
 •	User can see notification after an operation has been preformed.
+
 TECHNOLOGY USED-
 
 •	Photo Gallery uses a number of open-source projects to work properly.
